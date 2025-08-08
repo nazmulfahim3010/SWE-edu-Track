@@ -1,0 +1,94 @@
+[
+  {
+    "null": "242-134-000",
+    "attendance": 2,
+    "CT1": null,
+    "CT1_marking_count": 3,
+    "CT2": null,
+    "CT2_marking_count": 0,
+    "assignment": null,
+    "assignment_marking_count": 0,
+    "total": null,
+    "total_student": 10
+  },
+  {
+    "id": "242-134-001",
+    "attendance": 1,
+    "CT1": 10,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-002",
+    "attendance": 1,
+    "CT1": 12,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-003",
+    "attendance": 2,
+    "CT1": 12,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-004",
+    "attendance": 1,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-005",
+    "attendance": 2,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-006",
+    "attendance": 2,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-007",
+    "attendance": 2,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-008",
+    "attendance": 1,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-009",
+    "attendance": 1,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  },
+  {
+    "id": "242-134-010",
+    "attendance": 1,
+    "CT1": null,
+    "CT2": null,
+    "assignment": null,
+    "total": null
+  }
+]
